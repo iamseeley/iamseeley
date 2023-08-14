@@ -1,4 +1,2 @@
-# Hi!
-
-## My name is Thomas Seeley.
+# Thomas Seeley
 
