@@ -1,2 +1,2 @@
-# Thomas Seeley
+# Hi there, I'm Thomas Seeley
 
