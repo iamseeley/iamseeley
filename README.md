@@ -4,4 +4,4 @@
 - 🎨 I enjoy all things HTML and CSS, and yes, that includes Tailwind.
 - 📚 Recently, I've been learning Go and Python. 
 - 👤 My personal website [tseeley.com](https://tseeley.com/site/home) is served via a static site generator I wrote in Go.
-- 🐦 You can follow me on twitter [@iamseeley](https://twitter.com/iamseeley), but I mainly live  @[tseeley.com](https://tseeley.com/site/home). 
+- 🐦 You can follow me on twitter [@iamseeley](https://twitter.com/iamseeley), but I mainly live  @ [tseeley.com](https://tseeley.com/site/home). 
