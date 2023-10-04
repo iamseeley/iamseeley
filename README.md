@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas Seeley
 - 🌐 I've been building for the web for the past three years.
-- 💻 I primarily code in Javascript.
+- 💻 I primarily code in JavaScript and TypeScript.
 - 🎨 I enjoy all things HTML and CSS.
 - 📚 Recently, I've been learning Go and Python. 
 - 👤 My personal website [tseeley.com](https://tseeley.com/site/home) is served via a static site generator I wrote in Go.
