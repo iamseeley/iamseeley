@@ -3,5 +3,5 @@
 - 💻 I primarily code in JavaScript and TypeScript.
 - 🎨 I enjoy all things HTML and CSS.
 - 📚 Recently, I've been learning Go and Python. 
-- 👤 My personal website [tseeley.com](https://tseeley.com/site/home) is served via a static site generator I wrote in Go.
+- 👤 My personal website: [tseeley.com](https://tseeley.com/site/home)
 - 🐦 You can follow me on twitter [@iamseeley](https://twitter.com/iamseeley), but I mainly live  @ [tseeley.com](https://tseeley.com/site/home). 
