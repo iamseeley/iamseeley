@@ -1,5 +1,5 @@
 # Hi there, I'm Thomas Seeley
-- 🌐 I've been building for the web for the past three years.
+- 🌐 I build things for the web.
 - 💻 I primarily code in JavaScript and TypeScript.
 - 🎨 I enjoy all things HTML and CSS.
 - 📚 Recently, I've been learning Go and Python. 
